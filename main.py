@@ -11,7 +11,7 @@ SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 REPS = 0
 TIMER = None
-
+test = 0
 # ---------------------------- WINDOW POPUP ------------------------------- #
 
 
